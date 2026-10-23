@@ -140,8 +140,6 @@ Raise a Pull Request
 ```
 ---
 
-### 📄 License
-- MIT License
 
 ---
 ### 🙌 Special Thanks
